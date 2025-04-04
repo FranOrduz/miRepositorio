@@ -1,0 +1,26 @@
+{
+  "packages": [
+    {
+      "name": "myCore", 
+      "maintainer": "FranOrduz",
+      "websiteURL": "https://github.com/FranOrduz/miRepositorio",
+      "email": "franciscoorduz2004@gmail.com", 
+      "platforms": [
+        {
+          "name": "myCustomCore", 
+          "architecture": "avr", 
+          "version": "**1.0.0**",
+          "url": "https://github.com/FranOrduz/miRepositorio/releases/download/v1.0.0/myCore.zip",
+          "archiveFileName": "myCore.zip",  
+          "checksum": "SHA-256:4AA3011C86D78DB5CB9774A9D28658B02265212917389D70D1130B4A8BF202E2", 
+          "size": "5106",  
+          "boards": [
+            {"name": "myCustomBoard"}  
+          ],
+          "toolsDependencies": [] 
+        }
+      ],
+      "tools": [] 
+    }
+  ]
+}
