@@ -65,7 +65,7 @@
           "architecture": "riscv32", 
           "version": "1.0.1",
           "url": "https://github.com/FranOrduz/miRepositorio/releases/download/v1.0.0/1.0.0.zip",
-          "archiveFileName": "esp32-3.2.0.zip",  
+          "archiveFileName": "1.0.0.zip",  
           "checksum": "SHA-256:bb37d5fa1e4c187d479dfc1225e7b4c080afb756ce39a07554305426cdd83261", 
           "size": "19748451",  
           "boards": [
