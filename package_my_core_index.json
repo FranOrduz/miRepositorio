@@ -19,91 +19,37 @@
           ],
           "toolsDependencies": [
             {
-              "packager": "myCore2",
+              "packager": "esp32",
               "name": "esp32-arduino-libs",
               "version": "idf-release_v5.4-2f7dcd86-v1"
             },
             {
-              "packager": "myCore2",
+              "packager": "esp32",
               "name": "esp-rv32",
               "version": "2411"
             },
             {
-              "packager": "myCore2",
+              "packager": "esp32",
               "name": "riscv32-esp-elf-gdb",
               "version": "14.2_20240403"
             },
             {
-              "packager": "myCore2",
+              "packager": "esp32",
               "name": "openocd-esp32",
               "version": "v0.12.0-esp32-20241016"
             },
             {
-              "packager": "myCore2",
+              "packager": "esp32",
               "name": "esptool_py",
               "version": "4.9.dev3"
             },
             {
-              "packager": "myCore2",
+              "packager": "esp32",
               "name": "mkspiffs",
               "version": "0.2.3"
             },
             {
-              "packager": "myCore2",
-              "name": "mklittlefs",
-              "version": "3.0.0-gnu12-dc7f933"
-            },
-            {
-              "packager": "arduino",
-              "name": "dfu-util",
-              "version": "0.11.0-arduino5"
-            }
-          ] 
-        },
-        {
-          "name": "myCustomCore", 
-          "architecture": "riscv32", 
-          "version": "1.0.1",
-          "url": "https://github.com/FranOrduz/miRepositorio/releases/download/v1.0.0/1.0.0.zip",
-          "archiveFileName": "1.0.0.zip",  
-          "checksum": "SHA-256:bb37d5fa1e4c187d479dfc1225e7b4c080afb756ce39a07554305426cdd83261", 
-          "size": "19748451",  
-          "boards": [
-            {"name": "myCustomBoard"}  
-          ],
-          "toolsDependencies": [
-            {
-              "packager": "myCore2",
-              "name": "esp32-arduino-libs",
-              "version": "idf-release_v5.4-2f7dcd86-v1"
-            },
-            {
-              "packager": "myCore2",
-              "name": "esp-rv32",
-              "version": "2411"
-            },
-            {
-              "packager": "myCore2",
-              "name": "riscv32-esp-elf-gdb",
-              "version": "14.2_20240403"
-            },
-            {
-              "packager": "myCore2",
-              "name": "openocd-esp32",
-              "version": "v0.12.0-esp32-20241016"
-            },
-            {
-              "packager": "myCore2",
-              "name": "esptool_py",
-              "version": "4.9.dev3"
-            },
-            {
-              "packager": "myCore2",
-              "name": "mkspiffs",
-              "version": "0.2.3"
-            },
-            {
-              "packager": "myCore2",
+              "packager": "esp32",
               "name": "mklittlefs",
               "version": "3.0.0-gnu12-dc7f933"
             },
