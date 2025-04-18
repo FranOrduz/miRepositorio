@@ -54,7 +54,7 @@
               "version": "3.0.0-gnu12-dc7f933"
             },
             {
-              "packager": "myCore2",
+              "packager": "arduino",
               "name": "dfu-util",
               "version": "0.11.0-arduino5"
             }
@@ -108,7 +108,7 @@
               "version": "3.0.0-gnu12-dc7f933"
             },
             {
-              "packager": "myCore2",
+              "packager": "arduino",
               "name": "dfu-util",
               "version": "0.11.0-arduino5"
             }
